@@ -1,7 +1,3 @@
-[![Cat Kitten GIF - Cat Kitten Kitty - Discover & Share GIFs | Kittens cutest, Cute baby animals, Baby cats](https://images.openai.com/thumbnails/url/RwJM7Xicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4s8wl19TNwNbLMC_Yu9TD29TI3KTcLK6g0N6iI9ygvD9M1Ty1xicjzSXfPDQ7ItEz2MvI2MfQLiDdXKwYAnX4n1A)](https://es.pinterest.com/pin/1042935226211908461/?utm_source=chatgpt.com)
-
-#
-
 ### PRORIX: Estudiante de 2º DAM · Desarrollo de Aplicaciones Multiplataforma
 
 
