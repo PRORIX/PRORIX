@@ -1,4 +1,4 @@
-<img width="6912" height="3456" alt="el futuro tambien se compila" src="https://github.com/user-attachments/assets/5412de91-94a4-430d-ac2d-44573b72fd59" />
+<img width="6912" height="3456" alt="el futuro tambien se compila (1)" src="https://github.com/user-attachments/assets/6e5d0c95-19f7-4216-aa57-660e71fc4127" />
 
 ---
 
