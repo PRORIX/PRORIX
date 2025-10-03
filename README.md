@@ -1,22 +1,4 @@
-### PRORIX: Estudiante de 2º DAM · Desarrollo de Aplicaciones Multiplataforma
-
-
 <img width="6912" height="3456" alt="el futuro tambien se compila" src="https://github.com/user-attachments/assets/5412de91-94a4-430d-ac2d-44573b72fd59" />
-
-
----
-
-## Índice
-
-1. [Sobre mí](#sobre-mí)
-2. [Habilidades técnicas](#habilidades-técnicas)
-3. [Formación actual](#formación-actual)
-4. [Proyectos destacados](#proyectos-destacados)
-5. [Experiencia](#experiencia)
-6. [Cómo ejecutar / probar mis proyectos](#cómo-ejecutar--probar-mis-proyectos)
-7. [Objetivos y motivación](#objetivos-y-motivación)
-8. [Colaboraciones y contacto](#colaboraciones-y-contacto)
-9. [Licencia](#licencia)
 
 ---
 
